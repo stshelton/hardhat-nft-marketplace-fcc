@@ -62,7 +62,7 @@ We are gonna go with approach 2
 
 
 ## Emiting events
-----
+
  
  An event is an inheritable member of the contract, which stores the arguments passed in the transaction logs when emitted. Generally, events are used to inform the calling application about the current state of the contract, with the help of the logging facility of EVM. Events notify the applications about the change made to the contracts and applications which can be used to execute the dependent logic.
 
@@ -70,7 +70,6 @@ We are gonna go with approach 2
 
 
 ## Pull over push
-----
 
 https://fravoll.github.io/solidity-patterns/pull_over_push.html
 
